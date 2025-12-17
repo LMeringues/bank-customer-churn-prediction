@@ -1,0 +1,12 @@
+venv/
+env/
+
+data/
+database/
+*.csv
+*.db
+*.sqlite3
+
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
