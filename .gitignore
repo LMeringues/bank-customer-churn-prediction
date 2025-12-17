@@ -1,9 +1,7 @@
 venv/
 env/
 
-data/
 database/
-*.csv
 *.db
 *.sqlite3
 
