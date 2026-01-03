@@ -50,7 +50,7 @@ I experimented with several algorithms and built an **Ensemble Model (Voting Cla
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/LMeringues/bank-customer-churn-prediction.git](https://github.com/LMeringues/bank-customer-churn-prediction.git)
+   git clone https://github.com/LMeringues/bank-customer-churn-prediction.git
    cd bank-customer-churn-prediction
 
 2. **Install dependencies:**
@@ -60,3 +60,4 @@ I experimented with several algorithms and built an **Ensemble Model (Voting Cla
 3. **Run the Streamlit app:**
    ```bash
    streamlit run app.py 
+
